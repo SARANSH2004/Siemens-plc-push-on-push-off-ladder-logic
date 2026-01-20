@@ -78,7 +78,8 @@ The control logic is designed to meet **industrial automation standards**, ensur
 - CNC auxiliary equipment control
 - Industrial automation panels
 - Machine control systems
-
 ---
 
 ## 📁 Repository Structure
+![Ladder Logic](Ladder_Logic/ladder_push_on_off.png)
+
