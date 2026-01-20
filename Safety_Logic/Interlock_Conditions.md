@@ -1,0 +1,3 @@
+- Prevents multiple toggles on continuous press
+- Output defaults to OFF on startup
+- Designed for fail-safe industrial operation
