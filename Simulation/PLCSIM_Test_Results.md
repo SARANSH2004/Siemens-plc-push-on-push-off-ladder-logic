@@ -1,0 +1,4 @@
+- Verified correct ON/OFF toggle behavior
+- Tested long-press condition (no false trigger)
+- Output resets safely on PLC restart
+- Validated logic using Siemens PLCSIM
